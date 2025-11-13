@@ -1,2 +1,3 @@
-# leetcode-solutions
-Recording my leetcode solutions for reference
+### Recording my leetcode solutions for personal reference
+
+[My leetcode profile](https://leetcode.com/u/sdasara/)
