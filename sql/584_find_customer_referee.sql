@@ -1,4 +1,6 @@
 '''
+https://leetcode.com/problems/find-customer-referee/?envType=study-plan-v2&envId=top-sql-50
+
 This can be solved in multiple ways in Postgres
 
 col != val is same as col <> val in Postgres
