@@ -1,7 +1,7 @@
 '''
 https://leetcode.com/problems/product-sales-analysis-i/?envType=study-plan-v2&envId=top-sql-50
 
-ON IN THE QUERY TELLS US HOW TO JOIN 2 TABLES COMPARING FIELDS
+JOIN ON IN THE QUERY TELLS US HOW TO JOIN 2 TABLES COMPARING FIELDS
 '''
 
 -- Write your PostgreSQL query statement below
